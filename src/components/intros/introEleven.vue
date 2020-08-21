@@ -6,7 +6,7 @@
         <b-col sm="12">
           <div class="intro-eleven-subtitle">
             <h3 class="font-weight-bold mb-3 text-white">
-              Logo
+              <img src="http://southerntech.cl/images/logo-empresa.jpg" alt="logo">
             </h3>
           </div>
           <h1

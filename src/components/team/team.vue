@@ -1,5 +1,5 @@
 <template>
-  <section id="teams-wrap" class="team-wrap p-t-b-80 light-gray">
+  <section id="teams-wrap" class="team-wrap p-t-b-80 ">
     <b-container>
       <b-row>
         <b-col md="12" class="section-header mb-5">

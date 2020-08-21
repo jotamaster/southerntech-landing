@@ -8,7 +8,7 @@
     >
       <b-navbar-brand href="#">
         <div class="logo">
-          <img src="@/assets/images/landing/lOGO_d/logo_white.png" alt="" />
+          <img src="http://southerntech.cl/images/logo-empresa.jpg" alt="" />
         </div>
       </b-navbar-brand>
 

@@ -4,7 +4,7 @@
     <b-container>
       <b-row>
         <div class="section-header col-md-12 mb-5">
-          <h2 class="font-weight-bold">Our Works</h2>
+          <h2 class="font-weight-bold">Productos Destacados</h2>
           <p>
             Lorem ipsum dolor, sit amet consectetur adipisicing elit. Placeat ea
             quam laborum, ducimus, laboriosam sint dolorum aspernatur libero.
@@ -33,8 +33,7 @@
                   <div class="card-body">
                     <h5 class="card-title font-weight-bold">Project one</h5>
                     <p class="card-text">
-                      Adipisci quas repellat sed. Quasi quaerat aut nam possimus
-                      vitae dignissimos, sapiente est atque teneturitem.
+                      {{content.desc}}
                     </p>
                   </div>
                   <div class="card-footer pl-3">
@@ -63,25 +62,34 @@ export default {
     return {
       images: [
         {
-          path: require("@/assets/images/landing/products/products9.svg")
+          path: "http://southerntech.cl/images/rbr/07.png",
+          desc:"descripcion de ejemplo",
+
         },
         {
-          path: require("@/assets/images/landing/products/products11.svg")
+          path: "http://southerntech.cl/images/rbr/07.png",
+          desc:"descripcion de ejemplo",
+
         },
         {
-          path: require("@/assets/images/landing/products/products15.svg")
+          path: "http://southerntech.cl/images/rbr/07.png",
+          desc:"descripcion de ejemplo",
+
         },
         {
-          path: require("@/assets/images/landing/products/products17.svg")
+          path: "http://southerntech.cl/images/rbr/07.png",
+          desc:"descripcion de ejemplo",
+
         },
         {
-          path: require("@/assets/images/landing/products/products13.svg")
+          path: "http://southerntech.cl/images/rbr/07.png",
+          desc:"descripcion de ejemplo",
+
         },
         {
-          path: require("@/assets/images/landing/products/products12.svg")
-        },
-        {
-          path: require("@/assets/images/landing/products/products17.svg")
+          path: "http://southerntech.cl/images/rbr/07.png",
+          desc:"descripcion de ejemplo",
+
         }
       ]
     };

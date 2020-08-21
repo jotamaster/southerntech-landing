@@ -6,7 +6,7 @@
 
 
                 <div class="logo">
-                    <img src="./../assets/images/logo.png" alt="">
+                    <img src="./../assets/images/leogo.png" alt="">
                 </div>
 
                 <div class="menu-toggle navbar-toggler" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">

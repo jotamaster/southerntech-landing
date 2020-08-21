@@ -3,10 +3,9 @@
     <b-container>
       <b-row>
         <b-col md="12" class="section-header mb-5">
-          <h2 class="font-weight-bold">Our Services</h2>
+          <h2 class="font-weight-bold">Nuestros Servicios</h2>
           <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Placeat ea
-            quam laborum, ducimus, laboriosam sint dolorum aspernatur libero.
+            Somos una empresa nueva compuesta de profesionales jovenes, altamente capacitados en las Ciencias del Mar y contamos con una amplia experiencia en la utilización de instrumentos científicos (tanto en laboratorio como en terreno) y en el análisis de datos.
           </p>
         </b-col>
 
@@ -30,10 +29,7 @@
             </b-card-body>
             <b-card-footer class=" pl-3">
               <a href="#" class="btn btn-lg p-1 mr-1 text-dark">
-                <span class="eva eva-link-2-outline"></span>
-              </a>
-              <a href="#" class="btn btn-lg p-1 mr-1 text-dark">
-                <span class="eva eva-share"></span>
+                Ver más..
               </a>
             </b-card-footer>
           </b-card>
@@ -48,52 +44,22 @@ export default {
     return {
       services: [
         {
-          serviceImage: require("@/assets/images/landing/services/service1.svg"),
-          serviceName: "Service One",
+          serviceImage: "http://southerntech.cl/images/RBR-white-1.png",
+          serviceName: "RBR",
           serviceText:
-            "Lorem ipsum dolor sit amet additional adipiscing elit Aenean commodo ligula"
+            ""
         },
         {
-          serviceImage: require("@/assets/images/landing/services/services9.svg"),
-          serviceName: "Service Two",
+          serviceImage: "https://rocklandscientific.com/wp-content/uploads/2015/08/RSI-logo-horiz.png",
+          serviceName: "Rockland Scientific",
           serviceText:
-            "Lorem ipsum dolor sit amet additional adipiscing elit Aenean commodo ligula"
+            ""
         },
         {
-          serviceImage: require("@/assets/images/landing/services/services10.svg"),
-          serviceName: "Service Three",
+          serviceImage: "http://southerntech.cl/images/SS_Banner_Blue2.jpg",
+          serviceName: "Sunburst Sensors",
           serviceText:
-            "Lorem ipsum dolor sit amet additional adipiscing elit Aenean commodo ligula"
-        },
-        {
-          serviceImage: require("@/assets/images/landing/services/services5.svg"),
-          serviceName: "Service Four",
-          serviceText:
-            "Lorem ipsum dolor sit amet additional adipiscing elit Aenean commodo ligula"
-        },
-        {
-          serviceImage: require("@/assets/images/landing/services/services6.svg"),
-          serviceName: "Service Five",
-          serviceText:
-            "Lorem ipsum dolor sit amet additional adipiscing elit Aenean commodo ligula"
-        },
-        {
-          serviceImage: require("@/assets/images/landing/services/services14.svg"),
-          serviceName: "Service Six",
-          serviceText:
-            "Lorem ipsum dolor sit amet additional adipiscing elit Aenean commodo ligula"
-        },
-        {
-          serviceImage: require("@/assets/images/landing/services/services15.svg"),
-          serviceName: "Service Seven",
-          serviceText:
-            "Lorem ipsum dolor sit amet additional adipiscing elit Aenean commodo ligula"
-        },
-        {
-          serviceImage: require("@/assets/images/landing/services/services16.svg"),
-          serviceName: "Service Eight",
-          serviceText:
-            "Lorem ipsum dolor sit amet additional adipiscing elit Aenean commodo ligula"
+            ""
         }
       ]
     };

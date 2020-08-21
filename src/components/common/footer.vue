@@ -5,7 +5,7 @@
     <section class="footer_wrap" id="footer-wrap">
       <b-container>
         <b-row class="row">
-          <b-col md="3" class="mb-4">
+          <!-- <b-col md="3" class="mb-4">
             <div class=" o-hidden text-left">
               <div class="">
                 <h4 class="card-title font-weight-bold">Dexam</h4>
@@ -16,9 +16,9 @@
                 </p>
               </div>
             </div>
-          </b-col>
+          </b-col> -->
           <!-- end of col -->
-          <b-col md="3" class="mb-4">
+          <!-- <b-col md="3" class="mb-4">
             <div class=" o-hidden text-left">
               <div class=" ">
                 <h4 class="card-title font-weight-bold">Other Pages</h4>
@@ -31,9 +31,9 @@
                 </div>
               </div>
             </div>
-          </b-col>
+          </b-col> -->
           <!-- end of col -->
-          <b-col md="3" class="mb-4 mb-lg-0 mb-md-0">
+          <!-- <b-col md="3" class="mb-4 mb-lg-0 mb-md-0">
             <div class=" o-hidden text-left">
               <div class="">
                 <h4 class="card-title font-weight-bold">Awesome Features</h4>
@@ -58,7 +58,7 @@
                 </div>
               </div>
             </div>
-          </b-col>
+          </b-col> -->
           <!-- end of col -->
           
           <b-col md="3" class="mb-lg-0 mb-md-0">
@@ -68,15 +68,14 @@
                 <div class="address-wrap mb-3">
                   <ul class="list-group list-unstyled">
                     <li class="">
-                      <i class="eva eva-pin-outline mr-2"></i>UI-Lib ,United
-                      Kingdom
+                      <i class="eva eva-pin-outline mr-2"></i>Osorno, Chile.
                     </li>
                   </ul>
                 </div>
                 <div class="address-wrap mb-3">
                   <ul class="list-group list-unstyled">
                     <li class="">
-                      <i class="eva eva-email-outline mr-2"></i>test@yahoo.com
+                      <i class="eva eva-email-outline mr-2"></i>max@southerntech.cl
                     </li>
                   </ul>
                 </div>
@@ -85,7 +84,7 @@
                   <ul class="list-group list-unstyled">
                     <li class="">
                       <i class="eva eva-phone-call-outline mr-2"></i>
-                      +8801961081993
+                      +56-9-9697 6420
                     </li>
                   </ul>
                 </div>

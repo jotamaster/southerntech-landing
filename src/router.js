@@ -20,6 +20,10 @@ const routes = [
     redirect: "/landing",
     component: () => import("./views/landingEleven.vue")
     
+  },
+  {
+    path:"/ejemplo/:id",
+    component: ()=> import ("./views/landingEleven.vue")
   }
 ];
 
